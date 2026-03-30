@@ -12,6 +12,8 @@ Projeto de uma Unidade Lógica e Aritmética (ALU) de 8 bits desenvolvida no DIG
 
 SEGUE VIDEO DA ALU PRONTA:
 
+![Foto da ALU](ALU.png)
+
 - https://youtu.be/IiGSSmKs2LY
 
 ## Objetivo
